@@ -1,0 +1,15 @@
+.top-navigation,.footer {
+    background-color: black;
+    color: aliceblue;
+}
+
+.launchpad-navigation {
+    background-color: lightgray;
+    color: black;
+}
+
+.jumbotron {
+    /*background: url("rocket-1022x725.jpg") no-repeat center;*/
+    text-align: center;
+    margin-top: 10px;
+}
